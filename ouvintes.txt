@@ -1,0 +1,4 @@
+Batman:robin:12345:João Caniço:a12345@iscte-iul.pt:IGE:PL_1:PL_2
+asterix:obelix:67890:Marta Santos:a67890@iscte-iul.pt:ETI:PL_2
+Adão:Eva:61005:Pedro Ferreira:a61005@iscte-iul.pt:EI:PL_2:PL_3
+Super:homem:88753:Francisco Pedro:a88753@iscte-iul.pt:ETI:

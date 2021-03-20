@@ -1,0 +1,14 @@
+MUS_1:Ai se ele cai:Xutos e Pontapes:308:2009:rock:2
+MUS_2:Better Man:Pearl Jam:5:2015:rock:3
+MUS_3:Bohemian Rhapsody:Queen:5:1996:pop:4
+MUS_4:Chuva:Mariza:244:1972:fado:5
+MUS_5:Estou alem:Antonio Variacoes:378:2009:pop:6
+MUS_6:A Head Full Of Dreams:Coldplay:398:1966:pop:7
+MUS_7:I See Fire:Ed Sheeran:248:1963:pop:9
+MUS_8:Is This Love:Bob Marley:347:2009:outro:10
+MUS_9:Jamming:Bob Marley:375:2000:outro:11
+MUS_10:Last Kiss:Pearl Jam:229:1999:rock:12
+MUS_11:Let It Be:The Beatles:290:1993:pop:13
+MUS_12:Love On The Brain:Rihanna:278:1961:pop:15
+MUS_13:Photograph:Ed Sheeran:391:1977:pop:16
+MUS_14:Rosa Branca:Mariza:324:1985:fado:17
