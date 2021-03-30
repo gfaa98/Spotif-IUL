@@ -30,6 +30,7 @@ Este ficheiro contém os ouvintes registados na aplicação Spotif-IUL, contendo
 entre outras informações sobre cada ouvinte:
 nickname:password:numero_aluno:nome:email:curso:lista_de_playlists
 Exemplo:
+
 Batman:robin:12345:João Caniço:a12345@iscte-iul.pt:IGE:PL_1:PL_2\n
 asterix:obelix:67890:Marta Santos:a67890@iscte-iul.pt:ETI:PL_2\n
 ...
@@ -40,6 +41,7 @@ prática, o mesmo formato da parte 2, mas agora o último campo da música corre
 vezes que essa música foi ouvida):
 ID_musica:nome_musica:intérprete:duração:ano_produção:género:num_vezes_ouvida
 Exemplo:
+
 MUS_1:Bohemian Rhapsody:Queen:359:1975:rock:37\n
 MUS_2:Ai se ele cai:Xutos e Pontapes:191:2004:rock:7\n
 MUS_3:We are the champions:Queen:190:1977:rock:13\n
@@ -52,6 +54,7 @@ Este ficheiro guarda as playlists registadas no sistema, ou seja, a lista ordena
 a cada playlist. Deve seguir o seguinte formato (é, na prática, o mesmo formato das partes 1 e 2):
 ID_playlist:nome_playlist:lista_ordenada_de_identificadores_musicas
 Exemplo:
+
 PL_1:Jogging:MUS_3:MUS_2\n
 PL_2:Estudo:MUS_5:MUS_3:MUS_4\n
 PL_3:Classicas:MUS_8:MUS_10:MUS_12:MUS_1:MUS_15\n
@@ -67,6 +70,7 @@ existe. Caso exista deve apenas associar-se a ele. Caso não exista deverá cri�
 adequadamente.
 Deve também criar a fila de mensagens, necessária para a comunicação entre servidor e ouvintes.
 De seguida deve apresentar um menu com as seguintes opções:
+
 -------- MENU --------
 1. Carregar ficheiros
 2. Descarregar memória
@@ -132,6 +136,7 @@ seu PID na mensagem (no campo myid) e ficará à espera de uma mensagem de respo
 o tipo igual ao seu PID. Na operação de login, o servidor reponde com o sucesso ou insucesso da operação.
 Após receber uma mensagem de autenticação com “sucesso”, o programa ouvinte deve apresentar um
 menu com as seguintes opções:
+
 -------- MENU --------
 1. Listar músicas de playlist
 2. Ouvir playlist
