@@ -77,6 +77,8 @@ De seguida deve apresentar um menu com as seguintes opções:
 3. Manutenção aplicação
 4. Mostrar memória
 0. Sair
+
+
  Carregar ficheiros: ler a informação sobre os ouvintes, músicas e playlists a partir dos respetivos
 ficheiros e carregar essa informação para estruturas de dados em memória (que devem ser
 previamente iniciadas com valores indicando “registo vazio”). Para cada estrutura deverá ser criada
@@ -142,6 +144,7 @@ menu com as seguintes opções:
 2. Ouvir playlist
 3. Associar a playlist
 0. Sair (Logout)
+
  Listar músicas de playlist: envia pedido ao servidor preenchendo o campo operacao da estrutura de
 mensagem com “list_musics” e fica a aguardar a resposta do servidor.
  Ouvir playlist: envia pedido ao servidor preenchendo os campos operacao e info1 da estrutura de
